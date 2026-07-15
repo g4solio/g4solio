@@ -1,16 +1,14 @@
-## Hi there 👋
+ Davide Gozzi
 
-<!--
-**g4solio/g4solio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working across distributed systems, legacy platforms, and software connected to real machines.
 
-Here are some ideas to get you started:
+**C# / .NET · Software architecture · Industrial systems · AI-assisted development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started building production software during high school. Today I design and evolve systems that need to remain reliable under real-world constraints, while developing new products through **OSUS**, my independent product and engineering lab.
+
+*Your friendly neighborhood .NET developer.*
+
+[Portfolio](https://g4solio.github.io/portfolio/) ·
+[CV](https://g4solio.github.io/portfolio/Davide_Gozzi_CV.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/davide-gozzi5/) ·
+[Steam](https://steamcommunity.com/profiles/76561197986572794/)
