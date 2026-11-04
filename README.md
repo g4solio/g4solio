@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://g4solio.github.io/portfolio/brand/github-readme-banner-ink.png">
+  <img alt="Davide Gozzi — senior software engineer. Software that has to keep working." src="https://g4solio.github.io/portfolio/brand/github-readme-banner-paper.png" width="1280" height="320">
+</picture>
+
 # Davide Gozzi
 
 Senior software engineer in Modena, Italy. I build software that has to keep working: distributed services, legacy platforms and systems connected to real machines. C#/.NET at the core.
