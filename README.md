@@ -13,6 +13,7 @@ Senior software engineer in Modena, Italy. I build software that has to keep wor
 
 - [Portfolio](https://g4solio.github.io/portfolio/), with four engineering decisions written up as case studies and the operating model behind the latest project.
 - [CV](https://g4solio.github.io/portfolio/Davide_Gozzi_CV.pdf), one page.
+- [CollectionVault_Peek](https://github.com/g4solio/CollectionVault_Peek), the operating model behind my latest project: what an agent reads before it writes, and what CI checks after.
 
 Most of my work is private: client systems and the OSUS products. The case studies are where the engineering shows.
 
