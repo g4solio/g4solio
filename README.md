@@ -1,14 +1,21 @@
- Davide Gozzi
+# Davide Gozzi
 
-Software engineer working across distributed systems, legacy platforms, and software connected to real machines.
+Senior software engineer in Modena, Italy. I build software that has to keep working: distributed services, legacy platforms and systems connected to real machines. C#/.NET at the core.
 
-**C# / .NET · Software architecture · Industrial systems · AI-assisted development**
+**How I ship now.** AI agents do most of the typing. I own the spec, the glossary, the architecture decisions, the coding standards, the review, and the CI that enforces whatever a script can check.
 
-I started building production software during high school. Today I design and evolve systems that need to remain reliable under real-world constraints, while developing new products through **OSUS**, my independent product and engineering lab.
+**Live**
+
+- [RosettAI](https://rosettai.osus.it/) — AI subtitle and document translation; structure never touches the model.
+- [Bubbles](https://bubbles.osus.it/) — one daily prompt, one song, group reveals.
+
+**In the open**
+
+- [Portfolio](https://g4solio.github.io/portfolio/), with four engineering decisions written up as case studies and the operating model behind the latest project.
+- [CV](https://g4solio.github.io/portfolio/Davide_Gozzi_CV.pdf), one page.
+
+Most of my work is private: client systems and the OSUS products. The case studies are where the engineering shows.
+
+[LinkedIn](https://www.linkedin.com/in/davide-gozzi5/) · [Galactic Fighters on Steam](https://store.steampowered.com/app/513960/Galactic_Fighters/)
 
 *Your friendly neighborhood .NET developer.*
-
-[Portfolio](https://g4solio.github.io/portfolio/) ·
-[CV](https://g4solio.github.io/portfolio/Davide_Gozzi_CV.pdf) ·
-[LinkedIn](https://www.linkedin.com/in/davide-gozzi5/) ·
-[Steam](https://steamcommunity.com/profiles/76561197986572794/)
